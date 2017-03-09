@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'tstpkghari',
   packages = ['tstpkghari'], # this must be the same as the name above
-  version = '0.1',
+  version = '0.2',
   description = 'A random test lib',
   author = 'Harshani Perera',
   author_email = 'perera.harshani@gmail.com',
