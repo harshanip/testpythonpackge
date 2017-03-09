@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'tstpckhari',
-  packages = ['tstpckhari'], # this must be the same as the name above
+  name = 'tstpkghari',
+  packages = ['tstpkghari'], # this must be the same as the name above
   version = '0.1',
   description = 'A random test lib',
   author = 'Harshani Perera',
